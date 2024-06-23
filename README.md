@@ -1,8 +1,10 @@
-## Hi there 👋
+# Welcome to my profile
+### About me
+
+I am a student in the Software Engineering department at NURE, and a Bachelor of Science in Mathematics and Computer Science at DDPU. I am currently working with NextJS/React. Let's work together 👋
+
 
 <!--
-**dmiroshnichenko02/dmiroshnichenko02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=dmiroshnichenko02)  
